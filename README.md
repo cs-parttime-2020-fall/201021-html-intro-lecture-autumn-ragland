@@ -4,7 +4,7 @@ Today's lecture will focus on creating HTML files using multiple elements and li
 files.
 
 ### Set Up
-- copy the assignment git url
+- copy the assignment git url from github : `git clone COPIED URL`
 - clone the assignment in the `html-css-basics` directory
 - open the assignment in VSCode
 
@@ -45,7 +45,7 @@ files.
 - add comments above all container elements using the `ctrl + /` hotkey
 
 ### Push File Changes
-- `git status` : check if file changes have been made
+- `git status` : check if file changes have been made at any point while pushing local changes
 - `git add -A` : stage changes for commit
 - `git commit -m "meaningful message"` : commit changes with appropriate message
 - `git push` : reflect local changes remotely 
@@ -59,4 +59,3 @@ files.
 [MDN HTML Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
 
 [MDN List of Elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
-
